@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: ece12f7d62f772b4885387cb752da78c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pastaPiece
+    100004: pastaPiece1
+    100006: pastaPiece10
+    100008: pastaPiece11
+    100010: pastaPiece12
+    100012: pastaPiece13
+    100014: pastaPiece14
+    100016: pastaPiece15
+    100018: pastaPiece16
+    100020: pastaPiece17
+    100022: pastaPiece18
+    100024: pastaPiece19
+    100026: pastaPiece2
+    100028: pastaPiece20
+    100030: pastaPiece21
+    100032: pastaPiece22
+    100034: pastaPiece23
+    100036: pastaPiece3
+    100038: pastaPiece4
+    100040: pastaPiece5
+    100042: pastaPiece6
+    100044: pastaPiece7
+    100046: pastaPiece8
+    100048: pastaPiece9
+    400000: //RootNode
+    400002: pastaPiece
+    400004: pastaPiece1
+    400006: pastaPiece10
+    400008: pastaPiece11
+    400010: pastaPiece12
+    400012: pastaPiece13
+    400014: pastaPiece14
+    400016: pastaPiece15
+    400018: pastaPiece16
+    400020: pastaPiece17
+    400022: pastaPiece18
+    400024: pastaPiece19
+    400026: pastaPiece2
+    400028: pastaPiece20
+    400030: pastaPiece21
+    400032: pastaPiece22
+    400034: pastaPiece23
+    400036: pastaPiece3
+    400038: pastaPiece4
+    400040: pastaPiece5
+    400042: pastaPiece6
+    400044: pastaPiece7
+    400046: pastaPiece8
+    400048: pastaPiece9
+    2100000: lambert1
+    2300000: pastaPiece
+    2300002: pastaPiece1
+    2300004: pastaPiece10
+    2300006: pastaPiece11
+    2300008: pastaPiece12
+    2300010: pastaPiece13
+    2300012: pastaPiece14
+    2300014: pastaPiece15
+    2300016: pastaPiece16
+    2300018: pastaPiece17
+    2300020: pastaPiece18
+    2300022: pastaPiece19
+    2300024: pastaPiece2
+    2300026: pastaPiece20
+    2300028: pastaPiece21
+    2300030: pastaPiece22
+    2300032: pastaPiece23
+    2300034: pastaPiece3
+    2300036: pastaPiece4
+    2300038: pastaPiece5
+    2300040: pastaPiece6
+    2300042: pastaPiece7
+    2300044: pastaPiece8
+    2300046: pastaPiece9
+    3300000: pastaPiece
+    3300002: pastaPiece1
+    3300004: pastaPiece10
+    3300006: pastaPiece11
+    3300008: pastaPiece12
+    3300010: pastaPiece13
+    3300012: pastaPiece14
+    3300014: pastaPiece15
+    3300016: pastaPiece16
+    3300018: pastaPiece17
+    3300020: pastaPiece18
+    3300022: pastaPiece19
+    3300024: pastaPiece2
+    3300026: pastaPiece20
+    3300028: pastaPiece21
+    3300030: pastaPiece22
+    3300032: pastaPiece23
+    3300034: pastaPiece3
+    3300036: pastaPiece4
+    3300038: pastaPiece5
+    3300040: pastaPiece6
+    3300042: pastaPiece7
+    3300044: pastaPiece8
+    3300046: pastaPiece9
+    4300000: pastaPiece13
+    4300002: pastaPiece14
+    4300004: pastaPiece15
+    4300006: pastaPiece16
+    4300008: pastaPiece17
+    4300010: pastaPiece18
+    4300012: pastaPiece19
+    4300014: pastaPiece20
+    4300016: pastaPiece21
+    4300018: pastaPiece22
+    4300020: pastaPiece23
+    4300022: pastaPiece12
+    4300024: pastaPiece11
+    4300026: pastaPiece10
+    4300028: pastaPiece9
+    4300030: pastaPiece8
+    4300032: pastaPiece7
+    4300034: pastaPiece6
+    4300036: pastaPiece5
+    4300038: pastaPiece4
+    4300040: pastaPiece3
+    4300042: pastaPiece2
+    4300044: pastaPiece1
+    4300046: pastaPiece
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
